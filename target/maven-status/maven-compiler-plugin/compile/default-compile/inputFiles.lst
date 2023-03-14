@@ -1,0 +1,5 @@
+D:\Jordan\Workspace_Docker\currency-exchange-service\src\main\java\com\aspire\microservices\currencyexchangeservice\dao\CurrencyExchangeRepository.java
+D:\Jordan\Workspace_Docker\currency-exchange-service\src\main\java\com\aspire\microservices\currencyexchangeservice\model\CurrencyExchange.java
+D:\Jordan\Workspace_Docker\currency-exchange-service\src\main\java\com\aspire\microservices\currencyexchangeservice\resource\CircuitBreakerResource.java
+D:\Jordan\Workspace_Docker\currency-exchange-service\src\main\java\com\aspire\microservices\currencyexchangeservice\resource\CurrencyExchangeResource.java
+D:\Jordan\Workspace_Docker\currency-exchange-service\src\main\java\com\aspire\microservices\currencyexchangeservice\CurrencyExchangeServiceApplication.java

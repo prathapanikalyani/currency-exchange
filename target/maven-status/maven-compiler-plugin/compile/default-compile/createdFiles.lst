@@ -1,0 +1,5 @@
+com\aspire\microservices\currencyexchangeservice\CurrencyExchangeServiceApplication.class
+com\aspire\microservices\currencyexchangeservice\resource\CircuitBreakerResource.class
+com\aspire\microservices\currencyexchangeservice\resource\CurrencyExchangeResource.class
+com\aspire\microservices\currencyexchangeservice\model\CurrencyExchange.class
+com\aspire\microservices\currencyexchangeservice\dao\CurrencyExchangeRepository.class
